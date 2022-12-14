@@ -55,7 +55,7 @@ Tenho 24 anos, moro em Porto Alegre - RS e sou apaixonada por tecnologia e gatos
  <p align="left">🤞🏻 Estou procurando oportunidades para profissionalizar minhas habilidades;</p>
  <p align="left">👀 Sou uma pessoa quieta e observadora;</p>
  <p align="left">🧠 Sempre tive muita facilidade em aprender as coisas;</p>
- <p align="left">🎮 Adoro jogar (principalmente jogos competitivos), e também jogos de tabuleiro ;</p>
+ <p align="left">🎮 Adoro jogar (principalmente jogos competitivos), e também jogos de tabuleiro;</p>
 </div>
 
 
