@@ -62,12 +62,16 @@ Tenho 24 anos, moro em Porto Alegre - RS e sou apaixonada por tecnologia e gatos
 
 </br>
 
-📫 Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/thallesdias/) ou pelo [E-mail](thallesdiask@gmail.com) e pode acompanhar meus estudos e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/thallesdias/) ou pelo [E-mail](mailto:thallesdiask@gmail.com) e pode acompanhar meus estudos e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
-<a href="https://www.linkedin.com/in/thallesdias" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/thldias/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+
+  <a href="https://www.linkedin.com/in/thallesdias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thallesdiask@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+
 
 
 
